@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Manoj-1022/leetcode/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Manoj-1022/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Manoj-1022/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
