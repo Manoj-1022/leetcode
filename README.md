@@ -20,9 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Manoj-1022/leetcode/tree/master/0056-merge-intervals) |
 | [1677-matrix-diagonal-sum](https://github.com/Manoj-1022/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Matrix
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/Manoj-1022/leetcode/tree/master/1677-matrix-diagonal-sum) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Manoj-1022/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
