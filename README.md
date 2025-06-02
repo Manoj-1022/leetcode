@@ -39,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Manoj-1022/leetcode/tree/master/0018-4sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manoj-1022/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manoj-1022/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2122-count-special-quadruplets](https://github.com/Manoj-1022/leetcode/tree/master/2122-count-special-quadruplets) |
 ## Enumeration
 |  |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manoj-1022/leetcode/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Manoj-1022/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
