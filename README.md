@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manoj-1022/leetcode/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/Manoj-1022/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Manoj-1022/leetcode/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Manoj-1022/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Manoj-1022/leetcode/tree/master/0056-merge-intervals) |
 | [1677-matrix-diagonal-sum](https://github.com/Manoj-1022/leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2122-count-special-quadruplets](https://github.com/Manoj-1022/leetcode/tree/master/2122-count-special-quadruplets) |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Manoj-1022/leetcode/tree/master/2122-count-special-quadruplets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Manoj-1022/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
